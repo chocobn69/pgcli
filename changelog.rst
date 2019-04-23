@@ -4,6 +4,7 @@ Upcoming:
 Bug fixes:
 ----------
 * Escape switches to VI navigation mode when not canceling completion popup. (Thanks: `Nathan Verzemnieks`_)
+* Fix for "no attribute KeyringLocked" (#1040). (Thanks: `Irina Truong`_)
 
 2.1.0
 =====
